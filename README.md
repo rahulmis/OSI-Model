@@ -46,3 +46,7 @@
 * The data link layer is responsible for the node to node delivery of the message. 
 
 # 7 Physical Layer : 
+
+
+
+[Youtube Video Link](https://www.youtube.com/watch?v=vv4y_uOneC0)
