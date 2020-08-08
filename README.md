@@ -28,4 +28,15 @@
 
 # 2 Presentation Layer : 
 * It recieves data from Applictaion Layer
-* This data in the form of 
+* This data in the form of character and numbers.
+
+# 3 Session Layer : 
+* Session layer helps setting up Network Authentication and Authorization.
+
+# 4 Transport Layer : 
+* Transport layer controls the reliability of communication through
+* * Segmentation
+* * Flow Control
+* * Error Control
+  
+# 5 Network Layer : 
