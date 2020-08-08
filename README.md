@@ -40,3 +40,9 @@
 * * Error Control
   
 # 5 Network Layer : 
+* Network layer works for the transmission of data from one host to the other located in different networks. 
+  
+# 6 Data Link Layer : 
+* The data link layer is responsible for the node to node delivery of the message. 
+
+# 7 Physical Layer : 
