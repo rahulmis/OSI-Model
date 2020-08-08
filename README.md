@@ -2,7 +2,7 @@
 
 
 
-### *Basicallly the osi model is use to define, How the data is transfer from 1 computer to another.*
+### *Basicallly the osi model is used for, How the data is transfer from 1 computer to another.*
 
 ## There are 7 layers in OSI model.
 
